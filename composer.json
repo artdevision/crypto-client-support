@@ -1,0 +1,19 @@
+{
+    "name": "artdevision/crypto-client-support",
+    "description": "Cripto Client Interfaces",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Artdevision\\CryptoClientSupport\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "A.Myslin",
+            "email": "artdevision@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
